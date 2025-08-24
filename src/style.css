@@ -1,0 +1,29 @@
+/* src/style.css */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap');
+
+/* Basic Reset */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  line-height: 1.5;
+  background-color: #fff;
+  color: #1a202c;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+/* Dark Mode Body Styles */
+body.dark-mode-body {
+  background-color: #1a202c;
+  color: #e2e8f0;
+}
