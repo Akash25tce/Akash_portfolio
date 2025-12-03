@@ -111,7 +111,7 @@ experience: [
   
   testimonial: {
     quote: "Akash is a highly motivated developer with a remarkable talent for problem-solving. His leadership during the Smart India Hackathon was instrumental to our team's success.",
-    author: "Project Mentor Name", // <-- Add your mentor's name
-    title: "Professor, Thiagarajar College of Engineering"
+    author: "Team Members", // <-- Add your mentor's name
+    title: "Student, Thiagarajar College of Engineering"
   }
 };
